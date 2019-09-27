@@ -20,9 +20,10 @@ The solution should build and run without error.
 You should see the out put of: 
 
 Louis owes David $18.85
+
 Carter owes David $22.16
 
 press the Enter key to close the output window.
 
-To run the Unit tests, display hte TestExplorer by clicking on Text/Windows/Test Explorer
+To run the Unit tests, display the TestExplorer by clicking on Text/Windows/Test Explorer
 In the Test Explorer pane choose Run All to run the unit tests or expand each arrow and select the individual test that you want to run.
